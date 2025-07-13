@@ -25,6 +25,8 @@ Just Python installed (No external libraries required)
 ```bash
 python table_generator.py
 
+
+
 #💡 Sample Output
 
 **********Welcome to the Table**********
